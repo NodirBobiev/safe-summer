@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/react/css/main.a517d71e.css",
-    "main.js": "/static/react/js/main.b0e341ad.js",
+    "main.js": "/static/react/js/main.fd61ca8d.js",
     "media/Blueville_Estate.png": "/static/react/media/Blueville_Estate.18bc8db1f1666ffb769b.png",
     "media/White_Downs_Estate.png": "/static/react/media/White_Downs_Estate.a6338b23775e9052b13c.png",
     "media/Extreme_Techology_Park.png": "/static/react/media/Extreme_Techology_Park.8b03dd5c065e3e1e434c.png",
@@ -82,10 +82,10 @@
     "media/city.jpg": "/static/react/media/city.13c69b7db1ace5691cd3.jpg",
     "../../templates/index.html": "/static/react/../../templates/index.html",
     "main.a517d71e.css.map": "/static/react/css/main.a517d71e.css.map",
-    "main.b0e341ad.js.map": "/static/react/js/main.b0e341ad.js.map"
+    "main.fd61ca8d.js.map": "/static/react/js/main.fd61ca8d.js.map"
   },
   "entrypoints": [
     "css/main.a517d71e.css",
-    "js/main.b0e341ad.js"
+    "js/main.fd61ca8d.js"
   ]
 }
